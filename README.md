@@ -15,7 +15,7 @@
    - JAVA
 
   
-## 🎓 Cuso:
+## 🎓 Curso:
  - Sistemas de Informações.
  - UAST - Serra Talhada.
  - Professo: Richarlyson D'Emery.
